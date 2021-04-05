@@ -8,3 +8,6 @@ changing validation on login edit.
 =======
 this is registration file and I'm editing my changes to the registration screen hope this works in dev server.
 main
+
+
+testestseteta
